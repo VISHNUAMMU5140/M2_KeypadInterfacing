@@ -1,12 +1,10 @@
 #include "project_configuration.h"
 #include "user_utilities.h"
 #include "LEDBlink.h"
-
-void peripheral_init(void)
+ void peripheral_init ()
 {
 	DDRB |= (1 << DDB0);
 }
-
 void change_led_state(uint8_t state)
 {
 	LED_PORT = (state << LED_PIN);
