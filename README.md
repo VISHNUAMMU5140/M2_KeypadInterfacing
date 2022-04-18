@@ -14,4 +14,4 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](6_ImagesAndVideos/LEDBlink- ON state .png)|![OFF](6_ImagesAndVideos/LEDBlink- OFF state .png)|
+|![LEDBlink- ON state](6_ImagesAndVideos/LEDBlink- ON state .png)|![LEDBlink- OFF state](6_ImagesAndVideos/LEDBlink- OFF state .png)|
