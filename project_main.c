@@ -1,6 +1,5 @@
 
 #include "project_config.h"
-
 #include "user_utils.h"
 #include "blinky.h"
 
