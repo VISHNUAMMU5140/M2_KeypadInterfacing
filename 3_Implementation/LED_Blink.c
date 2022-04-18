@@ -1,7 +1,8 @@
 #include "project_configuration.h"
 #include "user_utilities.h"
 #include "LEDBlink.h"
- void peripheral_init (void)
+
+void peripheral_init (void)
 {
 	DDRB |= (1 << DDB0);
 }
