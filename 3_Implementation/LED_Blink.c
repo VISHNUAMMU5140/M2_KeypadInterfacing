@@ -1,5 +1,5 @@
-#include "project_config.h"
-#include "user_utils.h"
+#include "project_configuration.h"
+#include "user_utilities.h"
 #include "LEDBlink.h"
 
 void peripheral_init(void)
