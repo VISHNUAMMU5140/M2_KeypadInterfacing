@@ -21,11 +21,11 @@ int main(void)
 
 	for(;;)
 	{
-        change_led_state(LED_ON);
-		delay_ms(LED_ON_TIME);
+        change_led_state(LED_ON); // switching LED state
+		delay_ms(LED_ON_TIME);// calling the delay loop for on time 
 		
-        change_led_state(LED_OFF);
-		delay_ms(LED_OFF_TIME);	
+        change_led_state(LED_OFF); // swirching LED state
+		delay_ms(LED_OFF_TIME);	// calling the delay loop for off time 
 	}
 	return 0;
 }
