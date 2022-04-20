@@ -19,7 +19,7 @@
 ### OPPORTUNITIES
 * In future, the program can be extended with major functionalities and many sensors integrated to provide feedback.
 
-### THREATs
+### THREATS
 * Only one port is made operational.Hence, No replacement can be done if the port is damaged.
 
 ## ESSENTIAL W'S AND H
@@ -38,4 +38,4 @@
 * LLR_1 - UNIT TESTING
 * LLR_2 - ASSIGNING TIMER 
 * LLR_3 - MULTIFILE PROGRAMMING
-* LLR_2
+
